@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  }
+
+picture {
+  display: block;
+}
+
+body {
+  font-size: 100%;
+  margin: 0 auto;   
+  background-color: var(--ceramic);
+}
+
+:root {
+    --ceramic:#FFF9F3;
+    --black: #000000;
+    --green: #3A5159;
+    --content-wrapper-width: 1280px;
+}
+
+
+
+h2 {
+font-family: Lora, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 3rem;
+line-height: 3.5rem;
+}
+
+h3 {
+font-family: Lora, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 2.5rem;
+line-height: 3rem;
+margin: 0;
+}
+
+.p {
+font-family: Lato, serif;
+font-style: normal;
+font-weight: normal;
+font-size: 1rem;
+line-height: 1.5rem;
+}
+
+.p-small {
+font-family: Lato, serif;
+font-style: normal;
+font-weight: normal;
+font-size: 0.813rem;
+line-height: 1.5rem;
+}
+
+
+
+h5 {
+font-family: Lora, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 1.5rem;
+line-height: 2rem;
+margin: 0.5rem 0;
+}
+
+
+
