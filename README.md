@@ -10,7 +10,7 @@ No need for an installation guide. The user needs to use their browser to visit 
 
 ## Credits
 
-The work was made by myself, however it was during my a course I took with General Assembly.
+The work was made by myself, however it was during a course I took with General Assembly.
 
 
 
